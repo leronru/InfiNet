@@ -38,6 +38,7 @@ pip install scapy termcolor
 2️⃣ Clone the repository:
 
 git clone https://github.com/leronru/InfiNet.git
+
 cd InfiNet
 
 3️⃣ Run the tool:
