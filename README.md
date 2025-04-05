@@ -47,8 +47,8 @@ cd InfiNet
 ```bash
 python interface.py
 ```
-## Project Interface
-![Project Interface](IMG_20250405_231125_641.jpg)
+## App Screenshot
+![App Screenshot](Screenshot_20250402-103430.jpg)
 📜 Legal & Ethical Notice
 
 Warning: This tool is intended for authorized security testing only. Any misuse, unauthorized access, or malicious activity is strictly prohibited and may result in legal consequences.
