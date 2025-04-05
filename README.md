@@ -47,8 +47,8 @@ cd InfiNet
 ```bash
 python interface.py
 ```
-![Ekran Görüntüsü](IMG_20250405_231125_641.jpg)
----
+## Proje Arayüzü
+![Proje Arayüzü](IMG_20250405_231125_641.jpg)
 
 📜 Legal & Ethical Notice
 
