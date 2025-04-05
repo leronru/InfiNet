@@ -31,21 +31,22 @@ Compatibility with Termux and Linux
 🔧 Installation
 
 1️⃣ Install dependencies:
-
+```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
 pip install scapy termcolor
-
+```
 2️⃣ Clone the repository:
-
+```
 git clone https://github.com/leronru/InfiNet.git
-
+```
+```bash
 cd InfiNet
-
+```
 3️⃣ Run the tool:
-
+```bash
 python interface.py
-
+```
 
 ---
 
@@ -81,17 +82,19 @@ InfiNet is a powerful network manipulation tool that enables you to conduct MITM
    ```bash
    git clone https://github.com/leronru/InfiNet.git
 egal Disclaimer
-
+```bash
 2. Install dependencies:
-
+```
+```bash
 pip install -r requirements.txt
+```
 
 Usage
 
 1. Run the tool:
-
+```bash
 python infinet.py
-
+```
 
 2. Follow the on-screen instructions to choose the attack type and target.
 
